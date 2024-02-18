@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* banner related styles */
+.banner {
+  background-image: url("../images/Banner\ Image.png");
+  border-radius: 16px;
+  /* background: linear-gradient(180deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%); */
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.banner-greetings {
+  padding-top: 120px;
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+.banner-title {
+  font-size: 72px;
+  font-weight: 900;
+}
+
+/* banner2 related styles */
+.banner2 {
+  background-image: url("../images/Vectorrr.png");
+  border-radius: 16px;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+.banner2-title {
+  font-family: "Merriweather", serif;
+  font-size: 64px;
+  font-weight: 900;
+}
+.banner2-description {
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 24px;
+  padding-bottom: 48px;
+}
+
+.banner2 a {
+  text-decoration: none;
+  margin-left: 32px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+.banner2-container {
+  padding-top: 125px;
+  padding-left: 125px;
+}
