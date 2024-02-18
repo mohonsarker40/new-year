@@ -141,34 +141,33 @@
   background: rgb(255, 255, 255);
   font-size: 24px;
 }
-.newsletter-input input[type="button"]{
+.newsletter-input input[type="button"] {
   border-radius: 0 50px 50px 0;
   background: rgb(255, 0, 0);
   color: white;
 }
 
 /* footer */
-.footer{
+footer {
   font-family: "Inter", sans-serif;
   color: #fff;
   background: #000;
   padding: 120px 140px;
   font-size: 20px;
 }
-.footer-text{
+.footer-text {
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin: 50px 0;
 }
-hr{
+hr {
   border: 1px solid rgba(255, 255, 255, 0.15);
   margin: 10px 0;
 }
-.social-icon{
+.social-icon {
   text-align: center;
 }
-.social-icon img{
+.social-icon img {
   margin-right: 10px;
 }
-
